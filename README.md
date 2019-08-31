@@ -5,9 +5,9 @@ JSON (JavaScriptObjectNotation) merupakan sebuah format data guna mempermudah da
 Kegunaan : Pada REST API, JSON digunakan sebagai format data yang digunakan untuk melakukan pertukaran data antar aplikasi, dan alasan kebanyakan memilih JSON dibandingkan lain (XML,CSV,dsb) karena sederhana dalam penulisan strukturnya dan juga kecepatan dalam loading transfer / parsing data tentu juga akan lebih cepat, ukuran file dari JSON tentu juga lebih kecil. Dengan adanya JSON maka pembuatan REST API akan lebih menjadi mudah, simple, dan cepat.
 
 Bukti Pengerjaan Project (Soal No 7) 
-![alt text](https://raw.githubusercontent.com/budiprihhastomo/Arkademy-Batch-12---1/master/Screnshots/bukti-1.jpg)
-![alt text](https://raw.githubusercontent.com/budiprihhastomo/Arkademy-Batch-12---1/master/Screnshots/bukti-2.jpg)
-![alt text](https://raw.githubusercontent.com/budiprihhastomo/Arkademy-Batch-12---1/master/Screnshots/bukti-3.jpg)
+![alt text](https://raw.githubusercontent.com/budiprihhastomo/Arkademy-Batch-12---1/master/Screenshots/bukti-1.jpg)
+![alt text](https://raw.githubusercontent.com/budiprihhastomo/Arkademy-Batch-12---1/master/Screenshots/bukti-2.jpg)
+![alt text](https://raw.githubusercontent.com/budiprihhastomo/Arkademy-Batch-12---1/master/Screenshots/bukti-3.jpg)
 
 Deskripsi :
 Saya membuat program (Soal No 7) menggunakan Framework Codeigniter dimana bahasanya menggunakan bahasa PHP. Dan juga saya padukan dengan AJAX ketika melakukan action CRUD. Database sudah saya sertakan didalam menggunakan SQL (DBMS: MySQL). Untuk gaya website saya menggunakan Framework Bootstrap v4.3 dan juga Font menggunakan CDN dari FontAwesome. Alasan saya menggunakan AJAX agar transaksi data menjadi lebih mudah dan cepat. Terdapat SweetAlert Library yang dapat mempercantik tampilan modal ketika sukses melakukan action, akan tetapi belum selesai dikerjakan. CRUD dapat berjalan dengan normal dan tampilan sesuai dengan yang diinginkan.
